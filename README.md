@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+View a live demo of this App on [Vercel](https://travel-page-static.vercel.app).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
